@@ -33,7 +33,6 @@ def naming_system
   hash = {
     :kingdom => ""
   }
-  hash << PORTION_1
   # Remember:
   #  Kingdom
   #  Phylum
