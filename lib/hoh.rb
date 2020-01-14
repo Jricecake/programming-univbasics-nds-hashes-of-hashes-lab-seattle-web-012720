@@ -31,8 +31,7 @@
  
 def naming_system
   hash = {}
-  hash << PORTION_1-PORTION_4
-
+  hash << PORTION_1
   # Remember:
   #  Kingdom
   #  Phylum
